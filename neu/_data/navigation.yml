@@ -1,6 +1,6 @@
-- name: Home
+- name: Start
   link: /
-- name: About
+- name: Der Kursleiter
   link: /about.html
-- name: Staff
+- name: Weitere Go-Spieler
   link: /staff.html
