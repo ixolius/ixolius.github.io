@@ -2,3 +2,5 @@
 neu/.jekyll-cache
 Gemfile.lock
 neu/.jekyll-metadata
+_site
+neu/_site
