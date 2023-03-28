@@ -1,7 +1,7 @@
 ---
-title: About
+title: Der Kursleiter
 ---
 
-# About page
+# {{ page.title }}
 
-This page tells you a litte bit about me.
+Langer Text über Yasushi...
