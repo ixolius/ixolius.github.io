@@ -2,6 +2,9 @@ collections:
   authors:
     output: true
 
+domain: ixolius.github.io
+url: https://ixolius.github.io
+
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
